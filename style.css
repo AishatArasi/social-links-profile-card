@@ -21,7 +21,7 @@ main {
     align-items: center;
     flex-direction: column;
     background-color: hsl(0, 0%, 12%);
-    width: 24%;
+    width: 320px;
     border-radius: 10px;
 }
  
